@@ -1,6 +1,6 @@
 # jQuery Actual Plugin CHANGELOG
 
-## 1.0.7
+## 1.0.6+watusi
 
 Save/restore element style rather than individual CSS attributes. It is much faster on restore,
 as well as more correct. Restoring CSS attributes will create element style where none originally
